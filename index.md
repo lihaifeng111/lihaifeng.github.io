@@ -1,6 +1,4 @@
-## Welcome to LiHaifeng GitHub Pages
-
-## Personal information
+## 个人信息
 ### 姓名 : 李海锋
 ### 年龄 : 23
 ### 公司 : 杭州七芽区块链科技有限公司
